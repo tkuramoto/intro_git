@@ -1,2 +1,4 @@
 Git practice
 change details 1
+git add
+git commit
